@@ -1,0 +1,26 @@
+# create key value pair
+"apple": "I am a real fruit"
+1: "this is sagar roll no"
+
+---  # that means sperated
+
+# create list
+-apple
+-mango
+-banana
+
+---
+
+# create blocks
+cities:
+ - new delhi
+ - mumbai
+ - gujrat
+
+... # that means ended
+
+# we can also create key value pair like this
+{mango: "yello fruit", age: 56}
+
+# we can also create block like this
+cities: [new delhi, mumbai]
